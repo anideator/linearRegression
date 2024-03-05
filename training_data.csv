@@ -1,0 +1,1001 @@
+experience,education_qualification,position,salary
+4,High School,Senior,48000
+11,High School,Senior,62000
+14,PhD,Senior,83000
+9,PhD,Junior,63000
+3,Bachelor,Junior,41000
+0,High School,Junior,30000
+5,High School,Junior,40000
+12,Bachelor,Senior,69000
+1,PhD,Senior,57000
+9,Masters,Junior,58000
+14,Bachelor,Senior,73000
+7,PhD,Junior,59000
+18,Bachelor,Manager,91000
+0,Masters,Manager,60000
+2,PhD,Junior,49000
+16,PhD,Senior,87000
+17,PhD,Manager,99000
+16,PhD,Manager,97000
+11,High School,Senior,62000
+16,High School,Junior,62000
+1,High School,Manager,52000
+1,Bachelor,Junior,37000
+8,High School,Manager,66000
+9,High School,Junior,48000
+17,Bachelor,Senior,79000
+13,Masters,Senior,76000
+10,PhD,Manager,85000
+12,High School,Senior,64000
+17,Bachelor,Senior,79000
+16,Masters,Senior,82000
+12,Masters,Junior,64000
+10,PhD,Manager,85000
+11,Masters,Manager,82000
+10,Masters,Junior,60000
+8,Masters,Manager,76000
+15,PhD,Senior,85000
+9,Bachelor,Junior,53000
+3,PhD,Junior,51000
+12,PhD,Manager,89000
+2,High School,Senior,44000
+11,Bachelor,Manager,77000
+10,Bachelor,Manager,75000
+8,High School,Junior,46000
+12,Masters,Manager,84000
+16,PhD,Manager,97000
+10,PhD,Junior,65000
+12,Bachelor,Senior,69000
+10,Bachelor,Senior,65000
+17,Bachelor,Senior,79000
+0,High School,Senior,40000
+15,Masters,Junior,70000
+9,PhD,Junior,63000
+3,Bachelor,Manager,61000
+19,Bachelor,Manager,93000
+12,Bachelor,Senior,69000
+19,Bachelor,Junior,73000
+18,High School,Senior,76000
+17,High School,Senior,74000
+6,Bachelor,Junior,47000
+17,PhD,Manager,99000
+17,High School,Manager,84000
+10,High School,Senior,60000
+16,Bachelor,Senior,77000
+11,Masters,Manager,82000
+2,PhD,Manager,69000
+10,Bachelor,Senior,65000
+10,Masters,Senior,70000
+9,High School,Senior,58000
+10,High School,Manager,70000
+9,PhD,Junior,63000
+11,Bachelor,Manager,77000
+16,Masters,Manager,92000
+14,Bachelor,Manager,83000
+16,High School,Junior,62000
+13,Bachelor,Manager,81000
+9,High School,Senior,58000
+14,Bachelor,Senior,73000
+13,High School,Junior,56000
+10,Bachelor,Senior,65000
+17,Masters,Senior,84000
+4,PhD,Junior,53000
+0,Masters,Junior,40000
+8,High School,Junior,46000
+10,PhD,Junior,65000
+6,Masters,Junior,52000
+0,PhD,Manager,65000
+5,Bachelor,Senior,55000
+6,PhD,Manager,77000
+18,PhD,Senior,91000
+14,High School,Senior,68000
+1,Masters,Senior,52000
+9,High School,Senior,58000
+16,Masters,Senior,82000
+15,High School,Junior,60000
+14,Masters,Junior,68000
+17,Masters,Manager,94000
+17,High School,Manager,84000
+18,Masters,Senior,86000
+2,Masters,Junior,44000
+8,PhD,Senior,71000
+10,Masters,Manager,80000
+13,PhD,Manager,91000
+14,High School,Senior,68000
+10,Masters,Manager,80000
+10,PhD,Manager,85000
+0,Bachelor,Manager,55000
+8,Bachelor,Senior,61000
+15,High School,Junior,60000
+2,PhD,Senior,59000
+17,PhD,Junior,79000
+0,High School,Senior,40000
+10,High School,Manager,70000
+14,Bachelor,Junior,63000
+18,Bachelor,Manager,91000
+13,Bachelor,Manager,81000
+18,Bachelor,Senior,81000
+2,High School,Manager,54000
+10,High School,Senior,60000
+17,High School,Junior,64000
+19,PhD,Senior,93000
+11,Bachelor,Junior,57000
+13,Bachelor,Junior,61000
+4,Masters,Junior,48000
+1,Bachelor,Manager,57000
+8,PhD,Junior,61000
+6,Masters,Senior,62000
+17,High School,Manager,84000
+4,PhD,Junior,53000
+4,PhD,Senior,63000
+7,Bachelor,Junior,49000
+19,Bachelor,Manager,93000
+10,PhD,Senior,75000
+6,High School,Junior,42000
+5,High School,Senior,50000
+9,PhD,Manager,83000
+1,Masters,Manager,62000
+16,Masters,Senior,82000
+17,Bachelor,Senior,79000
+17,High School,Manager,84000
+8,Masters,Senior,66000
+11,PhD,Manager,87000
+10,PhD,Senior,75000
+19,PhD,Manager,103000
+17,Bachelor,Senior,79000
+17,High School,Senior,74000
+14,Bachelor,Junior,63000
+12,PhD,Junior,69000
+11,High School,Senior,62000
+3,Masters,Senior,56000
+14,PhD,Junior,73000
+7,High School,Senior,54000
+3,Bachelor,Manager,61000
+15,PhD,Senior,85000
+15,PhD,Senior,85000
+3,Masters,Senior,56000
+3,PhD,Senior,61000
+7,PhD,Manager,79000
+15,High School,Senior,70000
+9,Masters,Junior,58000
+14,High School,Senior,68000
+9,High School,Senior,58000
+19,PhD,Senior,93000
+5,Masters,Junior,50000
+9,Masters,Senior,68000
+7,PhD,Junior,59000
+8,High School,Manager,66000
+3,Bachelor,Senior,51000
+9,Bachelor,Senior,63000
+17,Masters,Senior,84000
+3,High School,Senior,46000
+14,PhD,Manager,93000
+4,High School,Manager,58000
+13,PhD,Junior,71000
+5,PhD,Manager,75000
+18,Bachelor,Manager,91000
+8,Bachelor,Senior,61000
+6,High School,Manager,62000
+5,Bachelor,Senior,55000
+18,PhD,Junior,81000
+12,Bachelor,Junior,59000
+15,Masters,Senior,80000
+3,PhD,Manager,71000
+11,High School,Manager,72000
+0,PhD,Manager,65000
+11,PhD,Senior,77000
+3,High School,Senior,46000
+4,Bachelor,Senior,53000
+11,High School,Manager,72000
+8,High School,Senior,56000
+16,Masters,Junior,72000
+17,High School,Senior,74000
+17,PhD,Senior,89000
+3,High School,Manager,56000
+7,High School,Manager,64000
+6,Bachelor,Manager,67000
+12,Masters,Junior,64000
+8,PhD,Senior,71000
+6,High School,Manager,62000
+11,Bachelor,Junior,57000
+8,High School,Junior,46000
+17,High School,Manager,84000
+13,Masters,Senior,76000
+4,Bachelor,Senior,53000
+14,Bachelor,Junior,63000
+10,PhD,Senior,75000
+4,Bachelor,Senior,53000
+7,PhD,Manager,79000
+18,High School,Junior,66000
+11,Masters,Manager,82000
+4,High School,Junior,38000
+6,PhD,Manager,77000
+4,High School,Junior,38000
+14,High School,Junior,58000
+3,Bachelor,Senior,51000
+17,PhD,Senior,89000
+5,Masters,Senior,60000
+17,PhD,Manager,99000
+18,Bachelor,Senior,81000
+15,Masters,Manager,90000
+12,High School,Manager,74000
+8,Bachelor,Manager,71000
+6,Bachelor,Manager,67000
+0,Bachelor,Junior,35000
+13,Bachelor,Senior,71000
+15,Masters,Junior,70000
+6,Masters,Manager,72000
+6,PhD,Junior,57000
+16,High School,Senior,72000
+9,Masters,Senior,68000
+4,Masters,Junior,48000
+15,Masters,Senior,80000
+13,PhD,Senior,81000
+16,PhD,Manager,97000
+1,PhD,Junior,47000
+0,Bachelor,Junior,35000
+12,PhD,Senior,79000
+2,Bachelor,Manager,59000
+1,PhD,Senior,57000
+6,Masters,Manager,72000
+17,Masters,Junior,74000
+19,Bachelor,Senior,83000
+3,PhD,Junior,51000
+17,High School,Senior,74000
+15,Bachelor,Manager,85000
+19,Bachelor,Senior,83000
+11,High School,Senior,62000
+6,High School,Senior,52000
+4,PhD,Manager,73000
+13,High School,Junior,56000
+8,Masters,Manager,76000
+8,Masters,Senior,66000
+11,Masters,Junior,62000
+18,Masters,Senior,86000
+18,Masters,Manager,96000
+3,Masters,Senior,56000
+14,Masters,Manager,88000
+9,Bachelor,Junior,53000
+8,High School,Senior,56000
+17,Bachelor,Senior,79000
+5,Masters,Manager,70000
+19,Bachelor,Senior,83000
+18,PhD,Manager,101000
+9,PhD,Manager,83000
+5,Masters,Manager,70000
+12,PhD,Manager,89000
+10,Bachelor,Senior,65000
+3,PhD,Junior,51000
+6,PhD,Junior,57000
+19,Bachelor,Senior,83000
+5,Bachelor,Junior,45000
+11,Masters,Junior,62000
+0,High School,Manager,50000
+12,High School,Manager,74000
+0,Masters,Junior,40000
+0,High School,Manager,50000
+12,PhD,Junior,69000
+10,Masters,Senior,70000
+4,High School,Senior,48000
+14,High School,Senior,68000
+3,Bachelor,Manager,61000
+4,Bachelor,Senior,53000
+9,Masters,Junior,58000
+19,Bachelor,Junior,73000
+17,Bachelor,Junior,69000
+1,High School,Senior,42000
+0,PhD,Senior,55000
+14,Masters,Junior,68000
+9,PhD,Junior,63000
+4,Bachelor,Junior,43000
+5,High School,Junior,40000
+16,PhD,Manager,97000
+1,PhD,Senior,57000
+4,High School,Senior,48000
+4,Bachelor,Senior,53000
+9,High School,Junior,48000
+0,Bachelor,Manager,55000
+2,Bachelor,Junior,39000
+8,Bachelor,Junior,51000
+13,Masters,Manager,86000
+19,Bachelor,Senior,83000
+10,PhD,Junior,65000
+10,High School,Senior,60000
+15,Bachelor,Manager,85000
+13,PhD,Junior,71000
+18,High School,Manager,86000
+19,High School,Junior,68000
+5,Masters,Senior,60000
+9,Masters,Senior,68000
+0,Masters,Senior,50000
+17,High School,Junior,64000
+12,Bachelor,Senior,69000
+14,High School,Junior,58000
+19,High School,Manager,88000
+8,Masters,Junior,56000
+3,PhD,Junior,51000
+7,Masters,Senior,64000
+10,PhD,Junior,65000
+11,Bachelor,Junior,57000
+17,Masters,Manager,94000
+8,PhD,Junior,61000
+8,PhD,Senior,71000
+17,High School,Junior,64000
+13,Bachelor,Junior,61000
+2,High School,Junior,34000
+2,PhD,Manager,69000
+0,PhD,Manager,65000
+8,High School,Senior,56000
+3,Masters,Senior,56000
+13,Masters,Manager,86000
+6,Bachelor,Junior,47000
+17,High School,Junior,64000
+16,PhD,Manager,97000
+15,Masters,Senior,80000
+3,Bachelor,Senior,51000
+7,Masters,Senior,64000
+3,High School,Manager,56000
+11,High School,Manager,72000
+3,Masters,Junior,46000
+19,PhD,Junior,83000
+5,High School,Senior,50000
+8,Bachelor,Senior,61000
+4,Bachelor,Senior,53000
+7,Bachelor,Junior,49000
+0,Masters,Manager,60000
+0,Masters,Junior,40000
+10,PhD,Junior,65000
+1,Bachelor,Junior,37000
+12,Masters,Senior,74000
+9,Masters,Senior,68000
+2,High School,Junior,34000
+4,Masters,Senior,58000
+1,Masters,Senior,52000
+5,Masters,Senior,60000
+18,Bachelor,Manager,91000
+6,PhD,Senior,67000
+8,Bachelor,Manager,71000
+17,Masters,Junior,74000
+1,High School,Manager,52000
+2,Masters,Junior,44000
+15,PhD,Manager,95000
+4,Masters,Senior,58000
+8,PhD,Junior,61000
+6,High School,Junior,42000
+0,High School,Manager,50000
+1,Bachelor,Manager,57000
+13,Masters,Senior,76000
+19,Masters,Junior,78000
+5,Masters,Manager,70000
+1,High School,Junior,32000
+18,High School,Junior,66000
+14,PhD,Senior,83000
+18,PhD,Junior,81000
+9,Masters,Junior,58000
+1,High School,Senior,42000
+1,PhD,Junior,47000
+10,High School,Junior,50000
+7,High School,Junior,44000
+18,PhD,Manager,101000
+4,Masters,Manager,68000
+8,High School,Junior,46000
+18,Bachelor,Manager,91000
+8,Bachelor,Manager,71000
+11,Masters,Manager,82000
+13,PhD,Junior,71000
+14,Bachelor,Junior,63000
+13,Bachelor,Senior,71000
+7,High School,Senior,54000
+1,High School,Senior,42000
+12,High School,Manager,74000
+11,PhD,Senior,77000
+6,Masters,Manager,72000
+10,Bachelor,Junior,55000
+10,High School,Senior,60000
+3,High School,Junior,36000
+2,Masters,Junior,44000
+17,Masters,Junior,74000
+9,PhD,Senior,73000
+15,PhD,Manager,95000
+10,Masters,Junior,60000
+18,High School,Junior,66000
+16,PhD,Manager,97000
+7,Bachelor,Senior,59000
+14,High School,Manager,78000
+18,Bachelor,Senior,81000
+3,Masters,Junior,46000
+13,Masters,Senior,76000
+9,Bachelor,Senior,63000
+0,PhD,Junior,45000
+10,Masters,Senior,70000
+7,Masters,Manager,74000
+1,Masters,Senior,52000
+13,High School,Junior,56000
+0,Masters,Manager,60000
+8,High School,Manager,66000
+7,PhD,Manager,79000
+1,PhD,Senior,57000
+19,Masters,Senior,88000
+13,Bachelor,Junior,61000
+6,High School,Senior,52000
+2,PhD,Manager,69000
+2,High School,Senior,44000
+0,PhD,Senior,55000
+14,High School,Manager,78000
+16,Bachelor,Junior,67000
+19,PhD,Senior,93000
+17,Masters,Junior,74000
+6,High School,Manager,62000
+8,PhD,Manager,81000
+13,Masters,Junior,66000
+12,Masters,Senior,74000
+4,High School,Senior,48000
+5,High School,Senior,50000
+12,High School,Junior,54000
+7,PhD,Junior,59000
+17,High School,Junior,64000
+12,PhD,Senior,79000
+0,High School,Manager,50000
+6,High School,Junior,42000
+4,Masters,Manager,68000
+7,PhD,Senior,69000
+19,PhD,Senior,93000
+10,Masters,Senior,70000
+0,PhD,Junior,45000
+0,Bachelor,Manager,55000
+18,Bachelor,Junior,71000
+2,PhD,Junior,49000
+6,PhD,Senior,67000
+12,Bachelor,Senior,69000
+18,Masters,Manager,96000
+14,Bachelor,Manager,83000
+7,Bachelor,Senior,59000
+10,Masters,Manager,80000
+5,Bachelor,Manager,65000
+16,Masters,Manager,92000
+10,PhD,Junior,65000
+7,High School,Manager,64000
+19,Masters,Manager,98000
+0,Bachelor,Senior,45000
+15,PhD,Junior,75000
+4,Masters,Senior,58000
+7,PhD,Manager,79000
+4,High School,Manager,58000
+15,Bachelor,Manager,85000
+11,High School,Senior,62000
+6,PhD,Senior,67000
+3,PhD,Junior,51000
+4,PhD,Manager,73000
+11,Bachelor,Senior,67000
+3,High School,Manager,56000
+1,Masters,Senior,52000
+18,Masters,Junior,76000
+13,PhD,Senior,81000
+6,Bachelor,Junior,47000
+4,PhD,Manager,73000
+1,PhD,Junior,47000
+12,PhD,Manager,89000
+17,PhD,Junior,79000
+5,PhD,Manager,75000
+17,Bachelor,Senior,79000
+3,Masters,Manager,66000
+3,Masters,Junior,46000
+10,Masters,Senior,70000
+13,High School,Senior,66000
+0,High School,Junior,30000
+4,Masters,Manager,68000
+2,Masters,Junior,44000
+6,Masters,Junior,52000
+2,PhD,Senior,59000
+16,High School,Senior,72000
+16,High School,Junior,62000
+10,Masters,Senior,70000
+16,Bachelor,Manager,87000
+9,High School,Junior,48000
+19,PhD,Junior,83000
+7,Masters,Manager,74000
+9,Masters,Senior,68000
+19,Bachelor,Manager,93000
+3,PhD,Senior,61000
+15,High School,Junior,60000
+3,Bachelor,Manager,61000
+9,PhD,Junior,63000
+10,Bachelor,Senior,65000
+4,High School,Manager,58000
+13,Masters,Junior,66000
+6,High School,Manager,62000
+0,Masters,Senior,50000
+4,High School,Junior,38000
+19,PhD,Manager,103000
+4,PhD,Junior,53000
+4,Masters,Manager,68000
+11,Bachelor,Senior,67000
+13,Masters,Junior,66000
+7,Bachelor,Senior,59000
+3,PhD,Senior,61000
+3,Bachelor,Junior,41000
+19,Bachelor,Junior,73000
+5,Masters,Junior,50000
+10,High School,Manager,70000
+6,Masters,Senior,62000
+7,High School,Senior,54000
+4,High School,Senior,48000
+12,Masters,Senior,74000
+12,Bachelor,Senior,69000
+6,High School,Senior,52000
+17,Masters,Junior,74000
+14,Masters,Manager,88000
+9,Masters,Senior,68000
+11,High School,Junior,52000
+5,High School,Manager,60000
+11,Bachelor,Manager,77000
+6,Bachelor,Manager,67000
+1,High School,Senior,42000
+6,Masters,Manager,72000
+2,High School,Junior,34000
+15,Masters,Senior,80000
+10,Masters,Junior,60000
+9,High School,Junior,48000
+2,Masters,Senior,54000
+1,Masters,Manager,62000
+1,Bachelor,Manager,57000
+5,PhD,Manager,75000
+1,Bachelor,Junior,37000
+9,PhD,Manager,83000
+7,Masters,Senior,64000
+11,PhD,Senior,77000
+10,PhD,Junior,65000
+18,High School,Senior,76000
+0,Masters,Junior,40000
+19,Masters,Senior,88000
+19,Masters,Junior,78000
+3,Bachelor,Senior,51000
+8,PhD,Senior,71000
+17,PhD,Manager,99000
+2,Bachelor,Junior,39000
+18,Masters,Senior,86000
+14,PhD,Junior,73000
+7,High School,Manager,64000
+15,Masters,Junior,70000
+15,Bachelor,Junior,65000
+18,Bachelor,Junior,71000
+10,Masters,Junior,60000
+10,Masters,Manager,80000
+7,PhD,Senior,69000
+16,PhD,Manager,97000
+12,Masters,Manager,84000
+4,Bachelor,Junior,43000
+9,Bachelor,Manager,73000
+10,Bachelor,Junior,55000
+2,High School,Senior,44000
+10,PhD,Junior,65000
+3,High School,Senior,46000
+12,Bachelor,Junior,59000
+1,Masters,Manager,62000
+5,High School,Junior,40000
+4,PhD,Junior,53000
+1,PhD,Manager,67000
+10,Bachelor,Senior,65000
+14,PhD,Junior,73000
+9,High School,Manager,68000
+18,PhD,Senior,91000
+13,High School,Junior,56000
+19,High School,Junior,68000
+7,Masters,Junior,54000
+16,Bachelor,Junior,67000
+1,Masters,Manager,62000
+15,High School,Manager,80000
+8,PhD,Manager,81000
+9,PhD,Junior,63000
+6,Masters,Manager,72000
+9,Bachelor,Manager,73000
+15,Masters,Senior,80000
+16,High School,Manager,82000
+8,Masters,Junior,56000
+6,PhD,Manager,77000
+13,High School,Senior,66000
+8,PhD,Senior,71000
+8,PhD,Junior,61000
+10,Bachelor,Junior,55000
+8,Masters,Manager,76000
+1,PhD,Senior,57000
+1,Bachelor,Senior,47000
+9,Masters,Senior,68000
+4,Masters,Manager,68000
+19,Masters,Manager,98000
+14,PhD,Senior,83000
+10,Bachelor,Manager,75000
+9,PhD,Junior,63000
+1,High School,Manager,52000
+11,PhD,Senior,77000
+0,Bachelor,Junior,35000
+6,PhD,Junior,57000
+4,High School,Manager,58000
+11,PhD,Senior,77000
+13,Bachelor,Manager,81000
+19,Bachelor,Junior,73000
+19,Bachelor,Junior,73000
+18,Masters,Junior,76000
+1,PhD,Junior,47000
+1,Bachelor,Manager,57000
+9,PhD,Junior,63000
+5,PhD,Junior,55000
+14,PhD,Junior,73000
+2,High School,Manager,54000
+12,Masters,Junior,64000
+18,High School,Senior,76000
+10,Bachelor,Manager,75000
+15,High School,Senior,70000
+14,Masters,Junior,68000
+10,Masters,Manager,80000
+5,Bachelor,Senior,55000
+10,Bachelor,Senior,65000
+7,PhD,Manager,79000
+3,High School,Junior,36000
+14,Bachelor,Junior,63000
+8,High School,Senior,56000
+4,PhD,Manager,73000
+8,Masters,Junior,56000
+16,Masters,Manager,92000
+5,Bachelor,Senior,55000
+6,Masters,Manager,72000
+11,Masters,Senior,72000
+1,High School,Junior,32000
+0,Masters,Senior,50000
+2,Masters,Junior,44000
+4,Masters,Manager,68000
+1,Masters,Manager,62000
+18,Bachelor,Senior,81000
+18,High School,Junior,66000
+18,Masters,Manager,96000
+4,High School,Senior,48000
+12,High School,Manager,74000
+0,High School,Manager,50000
+8,PhD,Senior,71000
+10,Bachelor,Senior,65000
+5,PhD,Junior,55000
+8,Bachelor,Junior,51000
+16,Masters,Junior,72000
+19,High School,Manager,88000
+16,Masters,Senior,82000
+18,High School,Junior,66000
+1,High School,Senior,42000
+18,PhD,Manager,101000
+11,PhD,Manager,87000
+19,PhD,Senior,93000
+19,Bachelor,Manager,93000
+7,Masters,Manager,74000
+10,Bachelor,Manager,75000
+4,Bachelor,Manager,63000
+18,High School,Junior,66000
+13,High School,Manager,76000
+17,High School,Senior,74000
+7,Masters,Senior,64000
+11,Bachelor,Junior,57000
+5,Bachelor,Manager,65000
+17,High School,Manager,84000
+9,Masters,Junior,58000
+12,Masters,Manager,84000
+12,Bachelor,Junior,59000
+10,High School,Manager,70000
+3,Bachelor,Junior,41000
+19,Bachelor,Senior,83000
+9,PhD,Manager,83000
+19,Masters,Junior,78000
+19,Masters,Manager,98000
+15,Masters,Manager,90000
+3,Masters,Senior,56000
+12,High School,Junior,54000
+5,Masters,Manager,70000
+2,Masters,Senior,54000
+6,Bachelor,Manager,67000
+2,High School,Manager,54000
+11,Bachelor,Manager,77000
+18,High School,Junior,66000
+13,Bachelor,Manager,81000
+16,High School,Senior,72000
+19,PhD,Junior,83000
+12,PhD,Junior,69000
+14,High School,Junior,58000
+15,Bachelor,Manager,85000
+4,PhD,Manager,73000
+0,High School,Junior,30000
+17,PhD,Senior,89000
+9,High School,Senior,58000
+3,Bachelor,Junior,41000
+8,High School,Senior,56000
+12,PhD,Junior,69000
+12,Masters,Junior,64000
+2,PhD,Junior,49000
+19,PhD,Manager,103000
+9,Bachelor,Senior,63000
+14,Bachelor,Senior,73000
+9,Bachelor,Manager,73000
+4,High School,Manager,58000
+18,Masters,Senior,86000
+12,Bachelor,Junior,59000
+16,Masters,Junior,72000
+12,PhD,Junior,69000
+2,Masters,Senior,54000
+1,Bachelor,Senior,47000
+6,High School,Senior,52000
+7,Bachelor,Junior,49000
+17,Masters,Senior,84000
+13,Bachelor,Senior,71000
+15,PhD,Senior,85000
+8,Masters,Senior,66000
+14,Masters,Junior,68000
+3,High School,Manager,56000
+12,Masters,Manager,84000
+2,PhD,Junior,49000
+19,PhD,Senior,93000
+0,PhD,Senior,55000
+18,PhD,Senior,91000
+17,High School,Junior,64000
+14,High School,Junior,58000
+19,Bachelor,Senior,83000
+15,High School,Manager,80000
+10,Bachelor,Manager,75000
+17,Masters,Manager,94000
+17,Masters,Manager,94000
+9,Masters,Senior,68000
+14,Bachelor,Senior,73000
+9,Bachelor,Senior,63000
+17,Bachelor,Senior,79000
+11,Bachelor,Senior,67000
+15,High School,Junior,60000
+9,High School,Manager,68000
+3,PhD,Manager,71000
+12,Masters,Manager,84000
+12,Masters,Senior,74000
+12,Bachelor,Junior,59000
+7,Bachelor,Manager,69000
+17,Masters,Manager,94000
+0,PhD,Manager,65000
+4,Masters,Manager,68000
+15,High School,Manager,80000
+2,Bachelor,Junior,39000
+9,PhD,Manager,83000
+15,Masters,Manager,90000
+17,High School,Junior,64000
+3,High School,Manager,56000
+16,High School,Manager,82000
+6,PhD,Senior,67000
+5,Masters,Manager,70000
+14,Masters,Junior,68000
+19,Bachelor,Senior,83000
+1,Bachelor,Junior,37000
+8,PhD,Senior,71000
+19,Bachelor,Manager,93000
+16,High School,Manager,82000
+5,PhD,Manager,75000
+14,Bachelor,Manager,83000
+15,Masters,Manager,90000
+2,PhD,Manager,69000
+8,High School,Senior,56000
+19,Masters,Junior,78000
+12,High School,Senior,64000
+3,PhD,Junior,51000
+9,PhD,Junior,63000
+10,PhD,Junior,65000
+12,High School,Senior,64000
+14,High School,Senior,68000
+4,Masters,Junior,48000
+10,High School,Manager,70000
+18,Bachelor,Manager,91000
+17,PhD,Junior,79000
+15,PhD,Manager,95000
+11,Bachelor,Junior,57000
+1,High School,Junior,32000
+4,PhD,Manager,73000
+5,PhD,Manager,75000
+5,Bachelor,Manager,65000
+16,Bachelor,Manager,87000
+11,High School,Senior,62000
+17,High School,Junior,64000
+10,High School,Manager,70000
+19,PhD,Manager,103000
+8,Bachelor,Junior,51000
+0,PhD,Junior,45000
+5,High School,Junior,40000
+13,Bachelor,Senior,71000
+13,Bachelor,Manager,81000
+13,High School,Manager,76000
+8,PhD,Manager,81000
+16,High School,Senior,72000
+17,Bachelor,Junior,69000
+7,Bachelor,Junior,49000
+7,Bachelor,Senior,59000
+4,High School,Senior,48000
+2,Bachelor,Senior,49000
+2,PhD,Manager,69000
+16,Masters,Senior,82000
+7,PhD,Junior,59000
+15,High School,Senior,70000
+4,Bachelor,Manager,63000
+17,High School,Junior,64000
+12,PhD,Senior,79000
+9,Bachelor,Manager,73000
+19,Masters,Junior,78000
+15,Masters,Senior,80000
+16,High School,Senior,72000
+8,Masters,Junior,56000
+1,Masters,Senior,52000
+1,PhD,Junior,47000
+3,Bachelor,Manager,61000
+13,High School,Junior,56000
+2,PhD,Manager,69000
+12,High School,Manager,74000
+16,PhD,Manager,97000
+3,PhD,Junior,51000
+3,High School,Junior,36000
+12,PhD,Junior,69000
+4,PhD,Manager,73000
+0,High School,Senior,40000
+10,High School,Manager,70000
+12,PhD,Junior,69000
+14,Masters,Junior,68000
+2,Masters,Senior,54000
+7,High School,Senior,54000
+14,PhD,Senior,83000
+3,Masters,Senior,56000
+12,PhD,Manager,89000
+7,Bachelor,Manager,69000
+13,Bachelor,Junior,61000
+13,Masters,Senior,76000
+18,PhD,Manager,101000
+4,Bachelor,Manager,63000
+0,Masters,Manager,60000
+15,Bachelor,Senior,75000
+13,Masters,Junior,66000
+1,Masters,Senior,52000
+17,PhD,Senior,89000
+7,High School,Senior,54000
+3,High School,Manager,56000
+1,Bachelor,Senior,47000
+4,Bachelor,Senior,53000
+15,Bachelor,Junior,65000
+10,Bachelor,Senior,65000
+17,PhD,Junior,79000
+8,PhD,Junior,61000
+13,PhD,Junior,71000
+11,PhD,Senior,77000
+10,High School,Senior,60000
+7,PhD,Junior,59000
+0,Bachelor,Manager,55000
+10,Masters,Junior,60000
+17,Masters,Manager,94000
+10,PhD,Senior,75000
+7,PhD,Senior,69000
+18,PhD,Junior,81000
+9,Bachelor,Junior,53000
+0,PhD,Manager,65000
+12,Masters,Manager,84000
+10,Bachelor,Junior,55000
+16,High School,Junior,62000
+0,Masters,Manager,60000
+8,High School,Junior,46000
+12,PhD,Manager,89000
+10,High School,Junior,50000
+5,Masters,Junior,50000
+12,High School,Junior,54000
+4,Masters,Manager,68000
+1,Bachelor,Senior,47000
+7,PhD,Senior,69000
+12,PhD,Senior,79000
+19,Bachelor,Junior,73000
+3,Bachelor,Junior,41000
+8,PhD,Manager,81000
+16,Masters,Senior,82000
+1,PhD,Manager,67000
+4,Bachelor,Junior,43000
+11,PhD,Junior,67000
+5,Masters,Manager,70000
+17,Masters,Senior,84000
+16,High School,Manager,82000
+2,Masters,Junior,44000
+12,Bachelor,Junior,59000
+9,PhD,Senior,73000
+14,High School,Senior,68000
+1,Masters,Senior,52000
+14,Bachelor,Manager,83000
+11,High School,Manager,72000
+6,Bachelor,Manager,67000
+19,Bachelor,Manager,93000
+12,Masters,Senior,74000
+3,High School,Senior,46000
+10,Masters,Senior,70000
+0,Masters,Manager,60000
+9,Bachelor,Senior,63000
+11,High School,Junior,52000
+4,Bachelor,Senior,53000
+5,High School,Junior,40000
+1,Masters,Junior,42000
+18,PhD,Senior,91000
+2,PhD,Junior,49000
+11,PhD,Junior,67000
+14,Masters,Junior,68000
+4,Masters,Senior,58000
+16,High School,Senior,72000
+6,Masters,Manager,72000
+3,High School,Junior,36000
+12,Masters,Junior,64000
+5,Bachelor,Manager,65000
+9,Masters,Manager,78000
+8,High School,Junior,46000
+8,PhD,Manager,81000
+19,Bachelor,Manager,93000
+13,Bachelor,Manager,81000
+0,High School,Manager,50000
+2,High School,Manager,54000
+7,Bachelor,Junior,49000
+12,Bachelor,Senior,69000
+1,Masters,Senior,52000
+16,High School,Manager,82000
+13,PhD,Junior,71000
+16,Bachelor,Senior,77000
+15,Masters,Senior,80000
+10,PhD,Manager,85000
+19,High School,Manager,88000
+18,PhD,Senior,91000
+16,Masters,Senior,82000
+0,High School,Manager,50000
+2,Bachelor,Senior,49000
+13,High School,Junior,56000
+12,Masters,Junior,64000
+16,High School,Manager,82000
+0,High School,Manager,50000
+1,Masters,Senior,52000
+7,PhD,Senior,69000
+11,High School,Manager,72000
+18,Masters,Junior,76000
+10,PhD,Junior,65000
+18,PhD,Junior,81000
+6,PhD,Senior,67000
+12,High School,Junior,54000
+0,Masters,Senior,50000
+9,Bachelor,Junior,53000
+12,PhD,Junior,69000
+2,PhD,Junior,49000
+11,PhD,Junior,67000
+9,PhD,Senior,73000
+7,Bachelor,Senior,59000
+12,Bachelor,Manager,79000
+19,High School,Manager,88000
+19,PhD,Manager,103000
+12,PhD,Manager,89000
+12,Bachelor,Manager,79000
+7,Bachelor,Junior,49000
+5,PhD,Manager,75000
+0,PhD,Junior,45000
+2,Bachelor,Senior,49000
+3,Bachelor,Senior,51000
+13,High School,Junior,56000
+4,Bachelor,Junior,43000
+13,PhD,Manager,91000
+0,High School,Senior,40000
+1,Masters,Junior,42000
+11,High School,Manager,72000
+3,Masters,Manager,66000
+18,PhD,Manager,101000
+3,Bachelor,Senior,51000
+11,High School,Senior,62000
+17,PhD,Junior,79000
+0,Bachelor,Junior,35000
+9,High School,Manager,68000
+15,PhD,Junior,75000
+8,High School,Manager,66000
+12,Bachelor,Manager,79000
+5,High School,Junior,40000
+18,High School,Manager,86000
+15,High School,Senior,70000
+9,Bachelor,Junior,53000
+3,Masters,Junior,46000
+1,Bachelor,Senior,47000
+2,Bachelor,Manager,59000
+12,Masters,Senior,74000
+5,High School,Manager,60000
+9,Bachelor,Senior,63000
+19,Bachelor,Junior,73000
+14,High School,Senior,68000
+14,Bachelor,Junior,63000
